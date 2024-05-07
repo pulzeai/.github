@@ -14,10 +14,10 @@ You can find our documentation [here](https://github.com/pulzeai-oss/knn-router/
 
 ## Community and Support
 
-We also invite you to join our Slack community for real-time support and interaction with other users. You can request an invitation [here](https://join.slack.com/t/pulzeaicommunity/shared_invite/zt-24pma9yfq-XunNWUWEvoKVrm4r9YJheA).
+We also invite you to join our Slack community for real-time support and interaction with other users. Join [here](https://join.slack.com/t/pulzeaicommunity/shared_invite/zt-24pma9yfq-XunNWUWEvoKVrm4r9YJheA).
 
 ## Contact
-If you have any questions or concerns, please don't hesitate to reach out to us.
+If you have any questions or concerns, please don't hesitate to reach out to us via
 
 Email: 
 support@pulze.ai
