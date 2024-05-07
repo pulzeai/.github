@@ -1,23 +1,23 @@
-## Hi there 👋
+<html>
+  <h3 align="center">
+  <a href="https://pulze.ai">Website</a>
+  <span> · </span>
+  <a href="https://blog.pulze.ai/">Blog</a>
+  <span> · </span>
+  <a href="https://github.com/pulzeai-oss">OSS</a>
+  <span> · </span>
+  <a href="https://join.slack.com/t/pulzeaicommunity/shared_invite/zt-24pma9yfq-XunNWUWEvoKVrm4r9YJheA">Community</a>
+  </h3>
+</html>
 
-Welcome to Pulze! 
-We are a venture-backed startup based in San Francisco, dedicated to simplifying the way queries are processed and routed. 
-We are proud to open source our KNN router, an Intent-tuned LLM router that intelligently selects the best LLM for a user query.
-
-## Open-Source Projects
-
-You can find our router [here](https://github.com/pulzeai-oss/knn-router)
-
-## Useful Resources
-
-You can find our documentation [here](https://github.com/pulzeai-oss/knn-router/tree/main/docs). This includes information on how to install and use the KNN router. We are constantly adding new documentation, so be sure to check back often.
-
-## Community and Support
-
-We also invite you to join our Slack community for real-time support and interaction with other users. Join [here](https://join.slack.com/t/pulzeaicommunity/shared_invite/zt-24pma9yfq-XunNWUWEvoKVrm4r9YJheA).
+<html>
+  <h3 align="center">
+  <p>👋 We're Pulze!</p>
+  <p>We help businesses like yours with digital transformation and innovation in the rapidly evolving landscape of generative AI.</p>
+  </h3>
+</html>
 
 ## Contact
-If you have any questions or concerns, please don't hesitate to reach out to us via
 
 Email: 
 support@pulze.ai
@@ -25,5 +25,3 @@ support@pulze.ai
 X: [Pulze](https://twitter.com/PulzeAi)
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20"/>: [Pulze](https://www.linkedin.com/company/pulze-ai/)
-
-We look forward to seeing the contributions and ideas that the community will bring to our project.
