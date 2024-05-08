@@ -16,7 +16,7 @@
 <br>
 <h2></h2>
 <div align="center">
-  <a href="mailto:support@pulze.ai"><img src="https://cdn3.iconfinder.com/data/icons/social-media-networks-logos-and-badges-1/64/Social__Mail--circle-1024.png" alt="Email" style="width:30px;height:30px"/></a>
+  <a href="mailto:github@pulze.ai"><img src="https://cdn3.iconfinder.com/data/icons/social-media-networks-logos-and-badges-1/64/Social__Mail--circle-1024.png" alt="Email" style="width:30px;height:30px"/></a>
   <span>&ensp;</span>
   <a href="https://twitter.com/PulzeAi"><img src="https://cdn4.iconfinder.com/data/icons/social-media-black-white-2/1227/X-1024.png" alt="X" style="width:26px;height:26px"/></a>
   <span>&ensp;</span>
